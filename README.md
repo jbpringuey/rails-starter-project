@@ -15,7 +15,7 @@ To start the app you can also use
 ```docker-compose up```
 
 
-Below are the steps to add bootstrap without node
+Below are the steps to add bootstrap
 
 Step 3 : Add bootstrap to application.scss
 ```
